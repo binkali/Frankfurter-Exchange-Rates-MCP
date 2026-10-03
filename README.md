@@ -6,10 +6,10 @@ The server fetches the latest rates published by the European Central Bank, pars
 
 ## Features
 
-- 💱 Current exchange rates for any supported base currency (default: `EUR`)
-- 🎯 Filter the response down to specific quote currencies
-- ✅ Input validation (unknown currencies, base used as quote)
-- 🔑 No API key, no account – Frankfurter is free and open
+-  Current exchange rates for any supported base currency (default: `EUR`)
+-  Filter the response down to specific quote currencies
+-  Input validation (unknown currencies, base used as quote)
+-  No API key, no account – Frankfurter is free and open
 
 ## Tools
 
